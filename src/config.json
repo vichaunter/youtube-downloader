@@ -1,0 +1,5 @@
+{
+    "formats": ["hd", "fullhd"],
+    "videoPrefix": "",
+    "downPath": "./downloads"
+}
